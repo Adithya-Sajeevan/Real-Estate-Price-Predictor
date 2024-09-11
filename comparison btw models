@@ -1,0 +1,12 @@
+Desicision tree:
+    mean: 0.3489233527871927
+    standard devation: 0.17366404693205115
+
+Linear regresion:
+
+    mean: 4.429198966409472e-14
+    standard devation: 1.978934178712138e-14
+
+RandomForestRegressor:
+    mean: 0.2169239270700844
+    standard devation: 0.10976483114903739
